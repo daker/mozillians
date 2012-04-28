@@ -5,7 +5,7 @@
         url('../fonts/OpenSans-Light-webfont.woff') format('woff'),
         url('../fonts/OpenSans-Light-webfont.ttf') format('truetype'),
         url('../fonts/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
-    font-weight:normal;
+    font-weight:300;
     font-style:normal
 }
 
@@ -61,7 +61,7 @@ body {
 
 .huge, .large, h1, h2, h3, h4, #profile-info dt {
     font-family:'Open Sans Light', "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
-    font-weight:400;
+    font-weight:normal;
     text-shadow:0 1px 0 rgba(255,255,255,0.75);
 }
 
@@ -102,7 +102,7 @@ h4 {
 }
 
 footer p, #main p {
-    font-family: 'Open Sans',sans-serif;
+    font-family:'Open Sans',sans-serif;
 }
 
 .small,small {
@@ -152,7 +152,7 @@ footer p, #main p {
 }
 
 .nav, .brand {
-    font-family: 'Open Sans',sans-serif;
+    font-family:'Open Sans',sans-serif;
 }
 
 #nav a,#nav span {
